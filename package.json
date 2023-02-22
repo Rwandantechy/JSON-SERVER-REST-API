@@ -1,0 +1,26 @@
+{
+  "name": "json-server-rest-api",
+  "version": "1.0.0",
+  "description": "My server for storing all users and blogs , projects and other sort of data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "devStart": "nodemon index.js",
+    "start": " json-server --watch myData.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rwandantechy/JSON-SERVER-REST-API.git"
+  },
+  "author": "Rwandantechy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rwandantechy/JSON-SERVER-REST-API/issues"
+  },
+  "homepage": "https://github.com/Rwandantechy/JSON-SERVER-REST-API#readme",
+  "dependencies": {
+    "json-server": "^0.17.1",
+    "nodemon": "^2.0.20",
+    "prettier": "^2.8.4"
+  }
+}
