@@ -1,5 +1,5 @@
 // javascript for index.html
-const container = document.querySelector(".blogs");
+const container = document.getElementById("blogs");
 const searchForm = document.querySelector(".search");
 
 const renderPosts = async (term) => {
@@ -14,8 +14,10 @@ const renderPosts = async (term) => {
     template += `
             <div class="post">
                 <h1>${blog.blogtitle}</h1>
-                <p><small>${blog.likes} likes</small></p>
-                <p>${blog.blogbody.slice(0, 200)}</p>
+                <p><small>${blog.likes} likes</small>
+                </p>
+               <p> ${blog.Thumbnailurl}</p>
+                <p>${blog.blogbody.slice(0, 400)}</p>
                 <a href="/data/details.html?id=${blog.id}">Read more...</a>
             </div>
         `;
