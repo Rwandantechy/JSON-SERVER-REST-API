@@ -3,14 +3,14 @@
     {
       "id": 1,
       "username": "cedric",
-      "emailaddress": " cedric@gmail.com.",
+      "emailaddress": " cedric@gmail.com",
       "phonenumber": "+250780730542",
       "password": "1234567890987654321"     
     },
      {
       "id": 2,
       "username": "Innocent",
-      "emailaddress": " innocentc@gmail.com.",
+      "emailaddress": " innocentc@gmail.com",
       "phonenumber": "+250789791255",
       "password": "1234567890"     
     }
