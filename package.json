@@ -2,7 +2,7 @@
   "name": "json-server-rest-api",
   "version": "1.0.0",
   "description": "My server for storing all users and blogs , projects and other sort of data",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "devStart": "json-server --watch myData.json",

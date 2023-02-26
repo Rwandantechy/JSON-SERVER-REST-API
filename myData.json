@@ -3,31 +3,18 @@
     {
       "id": 1,
       "username": "cedric",
-      "email-address": " cedric@gmail.com.",
-      "phone-number": "+250789791255",
-      "action": ""
+      "emailaddress": " cedric@gmail.com.",
+      "phonenumber": "+250780730542",
+      "password": "1234567890987654321"     
     },
-    {
+     {
       "id": 2,
-      "username": "cedric1",
-      "email-address": " cedric@gmail.com.",
-      "phone-number": "+250789791255",
-      "action": ""
-    },
-    {
-      "id": 3,
-      "username": "cedric2",
-      "email-address": " cedric@gmail.com.",
-      "phone-number": "+250789791255",
-      "action": ""
-    },
-    {
-      "id": 4,
-      "username": "cedric3",
-      "email-address": " cedric@gmail.com.",
-      "phone-number": "+250789791255",
-      "action": ""
+      "username": "Innocent",
+      "emailaddress": " innocentc@gmail.com.",
+      "phonenumber": "+250789791255",
+      "password": "1234567890"     
     }
+    
   ],
   "blogs": [
     {
